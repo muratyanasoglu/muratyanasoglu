@@ -1,69 +1,77 @@
 <div align="center">
-  <h1>Hi there, I'm Muhammed Murat Yanaşoğlu! 👋</h1>
-  <h3>AI & Software Engineer | M.Sc. Artificial Intelligence Engineering</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=250&section=header&text=Muhammed%20Murat%20Yanaşoğlu&fontSize=50&fontColor=FFD700&animation=twinkling&desc=Visionary%20AI%20%26%20Software%20Engineer&descSize=20&descAlignY=55&descAlign=62" width="100%" alt="Header Banner" />
 </div>
 
-<p align="center">
-  I am an AI & Software Engineer based in Nicosia, TRNC. I completed my B.Sc. in Software Engineering in just 3 years with High Honors, and I am currently pursuing an M.Sc. in Artificial Intelligence Engineering. I specialize in developing AI-integrated applications, full-stack web platforms, and automated systems using LLMs and computer vision. I am also the Founder and President of the Near East University Artificial Intelligence Club.
-</p>
-
 <div align="center">
-  <a href="https://muratyanasoglu.com/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://linkedin.com/in/muratyanasoglu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:eng.muratyanasoglu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://medium.com/@muhammedmuratyanasoglu" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://www.researchgate.net/profile/Muhammed-Yanasoglu" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" /></a>
-  <a href="https://orcid.org/0009-0007-4722-8079" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-</div>
-
----
-
-### 🚀 About Me
-- 🎓 Pursuing an **M.Sc. in Artificial Intelligence Engineering** at Near East University (High Honor Student).
-- 💼 Working as an **AI Engineer**, with experience in developing RAG systems, fine-tuned LLMs, and intelligent automation platforms.
-- 🤖 Founder & President of the **Near East University Artificial Intelligence Club**.
-- 💡 Passionate about building end-to-end solutions, from AI integrations to modern full-stack web architectures.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Databases:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-</p>
-
-**Frameworks & Libraries:**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
-
-**Tools & DevOps:**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muratyanasoglu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratyanasoglu&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Architecting+the+Future+with+AI;Building+Intelligent+Automation;M.Sc.+Artificial+Intelligence+Engineer;Transforming+Data+into+Impact" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muratyanasoglu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <p><em>"Empowering the next generation of software ecosystems through Artificial Intelligence and intelligent automation."</em> 🌌</p>
+</div>
+
+<div align="center">
+  <a href="https://muratyanasoglu.com/" target="_blank"><img src="https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=google-chrome&logoColor=FFD700" alt="Website" /></a>
+  <a href="https://linkedin.com/in/muratyanasoglu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn" /></a>
+  <a href="mailto:eng.muratyanasoglu@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email" /></a>
+  <a href="https://medium.com/@muhammedmuratyanasoglu" target="_blank"><img src="https://img.shields.io/badge/Medium-1A1A1A?style=for-the-badge&logo=medium&logoColor=FFD700" alt="Medium" /></a>
+  <a href="https://www.researchgate.net/profile/Muhammed-Yanasoglu" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-1A1A1A?style=for-the-badge&logo=ResearchGate&logoColor=FFD700" alt="ResearchGate" /></a>
+  <a href="https://orcid.org/0009-0007-4722-8079" target="_blank"><img src="https://img.shields.io/badge/ORCID-1A1A1A?style=for-the-badge&logo=orcid&logoColor=FFD700" alt="ORCID" /></a>
+</div>
+
+<br>
+<hr style="border: 1px solid #FFD700;">
+
+<table align="center" style="border: none;">
+  <tr>
+    <td width="60%" style="border: none;">
+      <h3>⚡ Executive Summary</h3>
+      <p>I am an AI & Software Engineer based in Nicosia, TRNC. Having accelerated my B.Sc. in Software Engineering to completion in just <b>3 years with High Honors</b>, I am currently advancing my expertise through an M.Sc. in Artificial Intelligence Engineering.</p>
+      <p>My core domain revolves around architecting AI-integrated applications, fine-tuning LLMs, building scalable RAG systems, and engineering full-stack platforms powered by computer vision. Beyond the code, I lead the ecosystem as the <b>Founder and President of the Near East University Artificial Intelligence Club</b>.</p>
+    </td>
+    <td width="40%" align="center" style="border: none;">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" alt="Animated PC" />
+    </td>
+  </tr>
+</table>
+
+<hr style="border: 1px solid #FFD700;">
+
+<div align="center">
+  <h3>🛠️ Technical Arsenal</h3>
+  <br>
+  <p><b>Core Languages & Databases</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,mysql,postgres,php&theme=dark" alt="Languages and Databases" />
+  </a>
+  <br><br>
+  <p><b>Frameworks, Libraries & DevOps</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,docker,linux,git&theme=dark" alt="Frameworks and DevOps" />
+  </a>
+</div>
+
+<br>
+<hr style="border: 1px solid #FFD700;">
+
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=muratyanasoglu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FFD700&text_color=E6E6E6&icon_color=FFD700" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratyanasoglu&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E6E6E6" height="170" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muratyanasoglu&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=E6E6E6&currStreakLabel=FFD700&sideNums=E6E6E6&sideLabels=E6E6E6&dates=E6E6E6" alt="GitHub Streak" />
+</div>
+
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>

@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  I am an AI & Software Engineer based in Nicosia, TRNC. I completed my B.Sc. in Software Engineering in just 3 years with High Honors, and I am currently pursuing an M.Sc. in Artificial Intelligence Engineering. I specialize in developing AI-integrated applications, full-stack web platforms, and automated systems using LLMs and computer vision. I am also the Founder and President of the Near East University Artificial Intelligence Club.
+  I am an AI & Software Engineer based in Nicosia, TRNC. I completed my B.Sc. in Software Engineering in just 3 years with High Honors, and I am currently pursuing an M.Sc. in Artificial Intelligence Engineering. I specialize in developing AI-integrated applications, full-stack web platforms, and automated systems using LLMs and computer vision.
 </p>
 
 <div align="center">

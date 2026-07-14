@@ -20,8 +20,9 @@
 
 ### 🚀 About Me
 
-- 🎓 Graduated from **Near East University** in June 2026 with an **M.Sc. in Artificial Intelligence Engineering**, a **3.71 GPA**, **High Honor** distinction, and recognition as the **top graduate in my department**.
+- 🎓 Completed the two-year **M.Sc. in Artificial Intelligence Engineering** program at **Near East University** in just **1.5 years**, graduating in June 2026 with a **3.71 GPA**, **High Honor** distinction, and recognition as the **top graduate in my department**.
 - 💼 Working as an **AI Engineer**, with experience in developing RAG systems, fine-tuned LLMs, and intelligent automation platforms.
+- 📚 Co-authored a published book chapter on the environmental, economic, and policy implications of water and energy sustainability in traditional and AI-driven data centers.
 - 🤖 Founder & President of the **Near East University Artificial Intelligence Club**.
 - 💡 Passionate about building end-to-end solutions, from AI integrations to modern full-stack web architectures.
 

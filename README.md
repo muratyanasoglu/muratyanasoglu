@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  I am an AI & Software Engineer based in Nicosia, TRNC. I completed my B.Sc. in Software Engineering in just 3 years with High Honors, and I am currently pursuing an M.Sc. in Artificial Intelligence Engineering. I specialize in developing AI-integrated applications, full-stack web platforms, and automated systems using LLMs and computer vision.
+  I am an AI & Software Engineer based in Nicosia, TRNC. I completed my B.Sc. in Software Engineering in just 3 years with High Honors. In June 2026, I graduated with an M.Sc. in Artificial Intelligence Engineering, earning a 3.71 GPA as a High Honor student and the top graduate in my department. I specialize in developing AI-integrated applications, full-stack web platforms, and automated systems using LLMs and computer vision.
 </p>
 
 <div align="center">
@@ -19,7 +19,8 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Pursuing an **M.Sc. in Artificial Intelligence Engineering** at Near East University (High Honor Student).
+
+- 🎓 Graduated from **Near East University** in June 2026 with an **M.Sc. in Artificial Intelligence Engineering**, a **3.71 GPA**, **High Honor** distinction, and recognition as the **top graduate in my department**.
 - 💼 Working as an **AI Engineer**, with experience in developing RAG systems, fine-tuned LLMs, and intelligent automation platforms.
 - 🤖 Founder & President of the **Near East University Artificial Intelligence Club**.
 - 💡 Passionate about building end-to-end solutions, from AI integrations to modern full-stack web architectures.
@@ -29,6 +30,7 @@
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Databases:**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -38,6 +40,7 @@
 </p>
 
 **Frameworks & Libraries:**
+
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -47,6 +50,7 @@
 </p>
 
 **Tools & DevOps:**
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
